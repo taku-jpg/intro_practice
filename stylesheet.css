@@ -1,0 +1,16 @@
+header{
+	background-color:#8EF1FF;
+	color:#444444;
+	height:130px;
+	padding:0 5px;
+}
+
+.main{
+	background-color:#C2EEFF;
+	padding:5px;
+}
+
+footer{
+	background-color:#CEF9DC;
+	padding:5px;
+}
